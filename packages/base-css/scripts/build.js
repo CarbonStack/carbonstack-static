@@ -6,7 +6,7 @@ const fs = require('fs')
 const mkdirp = require('mkdirp')
 
 const sassOutput = sass.renderSync({
-  file: path.join(__dirname, '..', 'node_modules/primer-base/index.scss'),
+  file: path.join(__dirname, '..', 'index.scss'),
   includePaths: ['node_modules'],
   outputStyle: 'compressed'
 })
