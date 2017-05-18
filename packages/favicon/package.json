@@ -1,6 +1,6 @@
 {
   "name": "@carbonstack/favicon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "scripts": {
     "test": "echo You don't have to test me. I'm fine."
@@ -8,8 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "files": [
     "assets/**/*"
   ]
